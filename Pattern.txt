@@ -1,14 +1,26 @@
 Line ==> i=j+c; here c = 0;
+
  *
   *
    *
     *
      *
 
-
 Line ==> i+j=c; here c = 0;
+
      *
     *
   *
  *
 *
+
+Line ==> i = c; here c is constant
+*****
+
+Line ==> j = c; here c is constant
+   *  
+   *  
+   *
+   *
+   *
+
